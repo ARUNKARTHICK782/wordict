@@ -1,0 +1,26 @@
+{
+  "name": "wordict",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "start": "node index.js",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "config": "^3.3.8",
+    "cors": "^2.8.5",
+    "denotation": "^1.0.4",
+    "express": "^4.18.1",
+    "google-dictionary-api": "^1.0.8",
+    "google-translate-api": "^2.3.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.6.2",
+    "node-fetch": "^3.2.10",
+    "nodemon": "^2.0.20",
+    "request": "^2.88.2"
+  }
+}
